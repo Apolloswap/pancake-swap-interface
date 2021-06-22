@@ -11,14 +11,6 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "WBNB Token",
-      "symbol": "WBNB",
-      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
-    },
-    {
       "name": "Genio",
       "symbol": "GENO",
       "address": "0xeec928756290ca64ad74bda4863392faf72f2403",
